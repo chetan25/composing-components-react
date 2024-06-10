@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+nav {
+  margin: 2rem;
+}
+.cards-container {
+  margin-top: 1rem;
+}

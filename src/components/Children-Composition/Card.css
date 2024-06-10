@@ -1,0 +1,31 @@
+.card-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+  border: 3px solid gray;
+  padding: 2rem;
+  gap: 1rem;
+  border-radius: 20px;
+  width: 40vw;
+  border: 3px solid var(--border-radius-color);
+}
+
+.default {
+  --border-radius-color: gray;
+}
+
+.success {
+  --border-radius-color: green;
+}
+
+.warning {
+  --border-radius-color: orangered;
+}
+
+.title {
+  color: mediumslateblue;
+}
+
+.body {
+  font-size: 1rem;
+}

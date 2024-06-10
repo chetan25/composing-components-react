@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+  border: 3px solid gray;
+  padding: 2rem;
+  width: 40vw;
+  gap: 1rem;
+}
+
+.card-title {
+  color: red;
+}
+
+.card-action {
+  display: flex;
+  justify-content: center;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+.card-img {
+  width: 400px;
+  img {
+    width: 100%;
+  }
+}

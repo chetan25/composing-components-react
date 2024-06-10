@@ -1,0 +1,17 @@
+.card-props {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+  border: 3px solid gray;
+  padding: 2rem;
+  gap: 1rem;
+  width: 40vw;
+}
+
+.card-props-title {
+  color: red;
+}
+
+.card-props-action {
+  font-size: 1.5rem;
+}
