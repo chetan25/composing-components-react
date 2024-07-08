@@ -1,0 +1,15 @@
+.item {
+  margin: 2rem;
+  border: 1px solid gray;
+  padding: 2rem;
+}
+
+.form {
+  margin: 1rem;
+  input {
+    margin-left: 1rem;
+  }
+  button {
+    margin: 1rem;
+  }
+}

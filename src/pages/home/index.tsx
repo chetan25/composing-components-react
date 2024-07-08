@@ -12,10 +12,13 @@ const Home = () => {
             <NavLink to="/basic">Basic Composition</NavLink>
           </li>
           <li>
-            <NavLink to="/props">Props based Composition</NavLink>
+            <NavLink to="/props">Props Based Composition</NavLink>
           </li>
           <li>
-            <NavLink to="/children">Children based Composition</NavLink>
+            <NavLink to="/children">Children Based Composition</NavLink>
+          </li>
+          <li>
+            <NavLink to="/hooks">Hooks Based Composition</NavLink>
           </li>
         </ul>
       </nav>
